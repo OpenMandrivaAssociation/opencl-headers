@@ -11,7 +11,7 @@ License:        MIT
 URL:            https://www.khronos.org/registry/cl/
 
 Source0:        https://github.com/KhronosGroup/OpenCL-Headers/archive/refs/tags/v%{version}/OpenCL-Headers-%{version}.tar.gz
-Source1:        https://github.com/KhronosGroup/OpenCL-CLHPP/archive/refs/tags/v%{cl_hpp_ver}/OpenCL-CLHPP%{cl_hpp_ver}.tar.gz
+Source1:        https://github.com/KhronosGroup/OpenCL-CLHPP/archive/refs/tags/v%{cl_hpp_ver}/OpenCL-CLHPP-%{cl_hpp_ver}.tar.gz
 # OCL 1.2 compatibility
 Source2:        https://www.khronos.org/registry/cl/api/2.1/cl.hpp
 
