@@ -1,6 +1,6 @@
 Name:           opencl-headers
 Version:        2022.09.30
-Release:        1
+Release:        2
 Summary:        OpenCL (Open Computing Language) header files
 License:        MIT
 URL:            https://www.khronos.org/registry/cl/
