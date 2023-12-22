@@ -1,5 +1,5 @@
 Name:           opencl-headers
-Version:        2023.02.06
+Version:        2023.12.14
 Release:        1
 Summary:        OpenCL (Open Computing Language) header files
 License:        MIT
@@ -28,3 +28,4 @@ cd build && ctest
 %files
 %{_includedir}/CL
 %{_datadir}/cmake/OpenCLHeaders
+%{_datadir}/pkgconfig/OpenCL-Headers.pc
