@@ -1,8 +1,8 @@
 %global cl_hpp_ver 2023.12.14
 
 Name:           opencl-headers
-Version:        2023.12.14
-Release:        2
+Version:        2024.05.08
+Release:        1
 Summary:        OpenCL (Open Computing Language) header files
 License:        MIT
 URL:            https://www.khronos.org/registry/cl/
